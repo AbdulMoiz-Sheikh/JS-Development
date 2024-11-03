@@ -4,7 +4,7 @@ var accountPassword = "12345"
 accountCity = "Karachi"
 let accountState;
 
-// // accountId = 2233
+// accountId = 2233
 // accountEmail = "moiz4323@gmail.com"
 // accountPassword = "3344567"
 // accountCity = "Lahore"
